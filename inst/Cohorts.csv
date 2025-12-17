@@ -1,0 +1,53 @@
+atlas_id,cohort_id,cohort_name,logic_description,generate_stats
+1792160,1792160,"[PP25 SgxHowOften] Major Non Cardiac Surgery, Inpt, no ED (update1 to 865)",NA,TRUE
+1792076,1792076,"[PP25 SgxHowOftenAKI] Lower extremity Bypass Surgery, adult, inpt, no ED (PhenoLib 867)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792077,1792077,"[PP25 SgxHowOftenAKI] Carotid endarterectomy, adult, inpt, no ED (PhenoLib 868)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792078,1792078,"[PP25 SgxHowOftenAKI] Lung resection, adult, inpt, no ED (PhenoLib 869)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792902,1792902,"COPY OF [PP25 SgxHowOftenAKI] Lung resection, adult, inpt (PhenoLib 869)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792079,1792079,"[PP25 SgxHowOftenAKI] Esophagectomy, adult, inpt, no ED (PhenoLib 870)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792904,1792904,"[PP25 SgxHowOftenAKI] Esophagectomy, adult, inpt (PhenoLib 870)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792080,1792080,"[PP25 SgxHowOftenAKI] Pancreatectomy, adult, inpt, no ED (PhenoLib 871)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792907,1792907,"[PP25 SgxHowOftenAKI] Pancreatectomy, adult, inpt (PhenoLib 871)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792081,1792081,"[PP25 SgxHowOftenAKI] Colectomy, adult, inpt, no ED (PhenoLib 872)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792908,1792908,"[PP25 SgxHowOftenAKI] Colectomy, adult, inpt (PhenoLib 872)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792082,1792082,"[PP25 SgxHowOftenAKI] Cystectomy, adult, inpt, no ED (PhenoLib 873)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792083,1792083,"[PP25 SgxHowOftenAKI] Nephrectomy, adult, inpt, no ED (PhenoLib 874)-updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792151,1792151,"[PP25 SgxHowOftenAKI] CABG, adult, inpt, no ED -updated","update to std concepts, all events, 60d persistence. ",TRUE
+1792155,1792155,"[PP25 SgxHowOftenAKI] Cardiac Surgery, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792153,1792153,"[PP25 SgxHowOftenAKI] Aortic Valve Surgery, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792154,1792154,"[PP25 SgxHowOftenAKI] Mitral Valve Surgery, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792502,1792502,"[PP25 SgxHowOftenAKI] Pulmonary Valve Surgery, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792497,1792497,"[PP25 SgxHowOftenAKI] Tricuspid Valve Surgery, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792498,1792498,"[PP25 SgxHowOftenAKI] Knee Replacement, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792499,1792499,"[PP25 SgxHowOftenAKI] Hip Replacement, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792500,1792500,"[PP25 SgxHowOftenAKI] Hysterectomy and Oophorectomy, adult","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792309,1792309,"[PP25 SgxHowOften] Major Non Cardiac Surgery, Adults TEST exit (update3 to 1289)",NA,TRUE
+1792161,1792161,"[PP25 SgxHowOften] Major Non Cardiac Surgery, Adults (update2 to 1289)",NA,TRUE
+1792066,1792066,"[PP25 SgxHowOftenAKI] Lower Extremity Bypass, adults	(PhenoLib 1291)-updated","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792067,1792067,"[PP25 SgxHowOftenAKI] Carotid Endarterectomy, adults (PhenoLib 1292)-updated","replace with standard concepts, all events, 60d persistence",TRUE
+1792068,1792068,"[PP25 SgxHowOftenAKI] Lung Resection, adults (PhenoLib 1293)-updated","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792069,1792069,"[PP25 SgxHowOftenAKI] Esophagectomy, adults (PhenoLib 1294)-updated","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792071,1792071,"[PP25 SgxHowOftenAKI] Pancreatectomy, adults (PhenoLib 1295)-updated","change to std. concepts; change to allow repeating events, 60d persistence 
+",TRUE
+1792072,1792072,"[PP25 SgxHowOftenAKI] Colectomy, adults (PhenoLib 1296)-updated","change to std. concepts; change to allow repeating events, 60d persistence 
+",TRUE
+1792073,1792073,"[PP25 SgxHowOftenAKI] Cystectomy, adults (PhenoLib 1297)-updated","change to std. concepts; change to allow repeating events, 60d persistence 
+",TRUE
+1792074,1792074,"[SgxHowOften] Nephrectomy, adults (PhenoLib 1298)-updated","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792152,1792152,"[PP25 SgxHowOftenAKI] CABG, adults, inpt -updated (365d before and 60d persistence)","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792892,1792892,"[PP25 SgxHowOftenAKI] CABG, adults, inpt, no ED -updated (365d before and 60d persistence)","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792301,1792301,"[PP25 SgxHowOftenAKI] TEST CABG, adult, inpt","update to std concepts, all events, 60d persistence. ",TRUE
+1792302,1792302,"[PP25 SgxHowOftenAKI] TEST CABG, adult, NOT inpt on day -1,0","update to std concepts, all events, 60d persistence. ",TRUE
+1792304,1792304,"[PP25 SgxHowOftenAKI] TEST CABG, adult, NOT inpt on day -1,1","update to std concepts, all events, 60d persistence. ",TRUE
+1792305,1792305,"[PP25 SgxHowOftenAKI] TEST CABG, adult, NOT inpt on day -1,1, outpt on day 0","update to std concepts, all events, 60d persistence. ",TRUE
+1792162,1792162,"[PP25 HowOftenSgx] Major Non Cardiac Surgery, adults, periop new Afib or flutter (update1 to 1304)",NA,TRUE
+1792163,1792163,"[PP25 SgxHowOften] Cardiac Surgery, adult, inpt, no ED, post op new Afib or flutter","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792682,1792682,"[PP25 SgxHowOften] Cardiac Surgery, adult, inpt, post op new Afib or flutter","change to std. concepts; change to allow repeating events, 60d persistence ",TRUE
+1792104,1792104,"[PP25 SgxHowOften] AKI with dialysis, prior CKD, no dialysis in 365",NA,TRUE
+1792147,1792147,"[PP25 SgxHowOften] AKI with dialysis, No prior CKD, no dialysis in 365",NA,TRUE
+1792156,1792156,"[PP25 SgxHowOften] AKI, No dialysis, prior CKD, no dialysis in 365",NA,TRUE
+1792157,1792157,"[PP25 SgxHowOften] AKI, No dialysis, No prior CKD, no dialysis in 365",NA,TRUE
+1791888,1791888,[PP25 SgxHowOften] AKI with dialysis (no ESKD or prior dialysis),"from cohortID362  with following changes: (1) change index to include broader defn dialysis + AKI (2) removal of Epo (3) Dialysis within 30d of index.  Note change #1 would address index date misspecification, but also ensure dialysis is for AKI (and not other indications) in general use; risk is that it may introduce immortal time bias via future criteria.   (3) change to no prior dialysis in 365 from chronic dialysis. (4) expanded AKI to include HRS, post partum. ",TRUE
+1791887,1791887,"[PP25 SgxHowOften] AKI with no dialysis, no ESKD, no prior dialysis 365","from phenoLib (data.ohdsi.org PhenotypeLibrary08)  with following changes: (1) removal of Epo (2) No dialysis within 30d of index (3) revised to no dialysis in 365, expand AKI from 
+",TRUE
+1791885,1791885,"[PP25 HowOftenSgx] AKI (condn or dialysis), no ESKD or dialysis in 365","from cohortID 362 with following changes: (1) added broader dialysis defn with nested AKI condition occurrence in 7 d; (2) removal of Epo.  (1) expanded for broader network study applicability, AKI required for more general use (to eliminate cases of dialysis for non AKI indications).  This form would address index date misspecification (in case dialysis is index event), but possibly introduce immortal time bias (via requirement of future event). (3) changed to no prior dialysis in last 365 (from 'chronic' dialysis). (4) expanded AKI to include HRS, post partum",TRUE
